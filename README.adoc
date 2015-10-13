@@ -1,0 +1,3 @@
+= groovy-mail
+
+A mail processing and sending library implemented in groovy.
